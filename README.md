@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Alquiler de Películas
+# Análisis de Alquiler de Películas
 
 ## Descripción del Proyecto
 
