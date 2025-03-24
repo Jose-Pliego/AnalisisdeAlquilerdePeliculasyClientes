@@ -46,7 +46,6 @@ A través de las consultas SQL realizadas, se extrajo información clave sobre e
 ![image](https://github.com/user-attachments/assets/a463acf0-a046-4736-ad89-074590ba74a0)
 ![image](https://github.com/user-attachments/assets/da47195e-d988-4ba1-a51b-9e0b074b229e)
 ![image](https://github.com/user-attachments/assets/2e7bba3f-a0a6-4b2d-8624-179e230bac60)
-![image](https://github.com/user-attachments/assets/cf963327-a50d-4516-a89c-e0ccceddc972)
 ![image](https://github.com/user-attachments/assets/2b435294-e3ac-4d6f-8aa2-ed0283a420e7)
 ![image](https://github.com/user-attachments/assets/1b6db02e-10b1-4b1d-8b51-80335c50d97b)
 ![image](https://github.com/user-attachments/assets/3c8bad35-460c-41c6-aeb0-05c8a8a19efe)
